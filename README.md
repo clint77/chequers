@@ -9,7 +9,7 @@ Chequers is a board game played by two *players*. It is played on a *board*, 8x8
   - If a piece is advanced all the way to the other side of the board, it gains the ability to move backwards.
 
 | Piece         | Collaborator  |
-=================================
+|---------------|:-------------:|
 | Be placed     | Board, Player |
 | Be taken      | Board, Piece  |
 | Be moved      | Board, Player |
